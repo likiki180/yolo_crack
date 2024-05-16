@@ -1,0 +1,7 @@
+模型：model__crack_aug.pt
+
+说明：使用了数据增强技术训练而来的最终模型。
+
+
+链接：https://pan.baidu.com/s/1pAEvY9CBjpWh6zpTGx_OBw 
+提取码：hnst 
