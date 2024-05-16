@@ -1,4 +1,4 @@
 
 ## Contact
 
-**Issues should be raised directly in the repository.** For business inquiries or professional support requests please visit https://www.ultralytics.com or email Glenn Jocher at glenn.jocher@ultralytics.com. 
+**如果你有任何问题，欢迎联系我们 zk_li@stu.cqu.edu.cn
